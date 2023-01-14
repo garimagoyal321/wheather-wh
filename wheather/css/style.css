@@ -1,0 +1,35 @@
+*{
+    box-sizing:border-box;
+    list-style: none;
+}
+.nav,a{
+    display: block;
+    color: aliceblue;
+    
+}
+.navbar-brand{
+    text-decoration-color: black;
+    font-style: bold;
+    font-weight: bolder;
+}
+.nav-link active{
+    text-decoration-color: black;
+    font-style: bold;
+}
+.nav-link{
+    text-decoration-color: black;
+    font-style: bold;
+}
+.div,row border-top border-light mx-xl-5 py-4{
+    text-align: center;
+}
+
+.card-body1{
+    background-image: url("https://thumbs.dreamstime.com/b/weather-thermomete…eather-thermometer-high-temperature-178454300.jpg");
+}
+.card-body2{
+    background-image: url("https://as2.ftcdn.net/v2/jpg/01/97/30/93/1000_F_197309342_v6ZXqe4dyq15D1Zb5yB53cSihFqkWVsH.jpg");
+}
+.card-body3{
+    background-image: url("https://c0.wallpaperflare.com/preview/284/933/218/palm-trees-wind-windy-weather.jpg");
+}
